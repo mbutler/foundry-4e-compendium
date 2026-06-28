@@ -1,5 +1,8 @@
 # Changelog
 
+## Foundry 4e Compendium v1.37.12
+- Use @impAttack for implement powers
+
 ## Foundry 4e Compendium v1.37.11
 - Merge [PR#9](https://github.com/wigmeister2000/foundry-4e-compendium/pull/9) from mbutler
 - Fixed bug when importing character without currency
