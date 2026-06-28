@@ -53,7 +53,7 @@
 			"abilityBonus":8,
 			"def":"ref",
 			"defBonus":0,
-			"formula":"@wepAttack + @powerMod + @lvhalf + 8",
+			"formula":"@impAttack + @powerMod + @lvhalf + 8",
 			"damageType":{},
 			"effectType":{}
 		},

@@ -54,7 +54,7 @@
 			"abilityBonus":2,
 			"def":"wil",
 			"defBonus":0,
-			"formula":"@wepAttack + @powerMod + @lvhalf + 2",
+			"formula":"@impAttack + @powerMod + @lvhalf + 2",
 			"damageType":{},
 			"effectType":{}
 		},

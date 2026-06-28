@@ -57,7 +57,7 @@
 			"abilityBonus":0,
 			"def":"fort",
 			"defBonus":0,
-			"formula":"@wepAttack + @powerMod + @lvhalf",
+			"formula":"@impAttack + @powerMod + @lvhalf",
 			"damageType":{},
 			"effectType":{}
 		},
