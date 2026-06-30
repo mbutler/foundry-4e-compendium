@@ -1,4 +1,4 @@
-![](https://img.shields.io/badge/Foundry-v13-informational)
+![](https://img.shields.io/badge/Foundry-v14-informational)
 
 # Foundry 4e Compendium and Tools
 
@@ -9,7 +9,7 @@
 * For a full list of features, have a look at the _4e Compendium Help_ in the _Compendium Packs_ tab in Foundry.
 
 ## Installation
-* You need [Foundry v13](https://foundryvtt.com/) and the [4e System](https://github.com/EndlesNights/dnd4eBeta). Releases for older Foundry versions can be found [here](https://github.com/wigmeister2000/foundry-4e-compendium/releases).
+* You need [Foundry v14](https://foundryvtt.com/) and the [4e System](https://github.com/EndlesNights/dnd4eBeta). Releases for older Foundry versions can be found [here](https://github.com/wigmeister2000/foundry-4e-compendium/releases).
 * _Foundry Setup_ -> _Add-On Modules_ -> _Install Module_
 * Paste the link below into the _Manifest URL_ box and press _Install_.
 
